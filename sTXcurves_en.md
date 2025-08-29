@@ -19,13 +19,13 @@
 
 *   Multivalued branch ($k \in \mathbb{Z}$):  $C(t, k) = \left( t\sin(t + 2\pi k), t\cos^2(t + 2\pi k) \right)$
 
-*   Weak nuclear force (P-curve):  $P(t) = \left( \frac{n\pi}{t} \sin t, \frac{n\pi}{t} \cos^2 t \right), \ t \in \left[ \frac{\pi}{2}, n\pi \right]$
+*   Weak nuclear force ($P$-curve):  $P(t) = \left( \frac{n\pi}{t} \sin t, \frac{n\pi}{t} \cos^2 t \right), \ t \in \left[ \frac{\pi}{2}, n\pi \right]$
 
-*   Strong nuclear force (R-curve):  $R(t) = \left( -\frac{t}{n\pi} \sin t, \frac{t}{n\pi} \cos^2 t \right), \ t \in [0, n\pi]$
+*   Strong nuclear force ($R$-curve):  $R(t) = \left( -\frac{t}{n\pi} \sin t, \frac{t}{n\pi} \cos^2 t \right), \ t \in [0, n\pi]$
 
 *   Electromagnetic force ($EM$-curve):  $EM(t) = \frac{1}{n}P(t) = \left( \frac{\pi}{t} \sin t, \frac{\pi}{t} \cos^2 t \right), \ t \in \left[ \frac{\pi}{2}, n\pi \right]$
 
-*   Gravitational force (G-curve):  $G(t) = nR(t) = \left( -\frac{t}{\pi} \sin t, \frac{t}{\pi} \cos^2 t \right), \ t \in [0, n\pi]$
+*   Gravitational force ($G$-curve):  $G(t) = nR(t) = \left( -\frac{t}{\pi} \sin t, \frac{t}{\pi} \cos^2 t \right), \ t \in [0, n\pi]$
 
 ### 3. Core Identity
 
