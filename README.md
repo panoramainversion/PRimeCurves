@@ -9,6 +9,7 @@ Geometric Foundations of Natural Philosophy
 |$nR(t)$                                          |$t∈[0,nπ]$             |**Gravitational Force**|Transformation| 
 |$C(t)=(tsint,tcos^2 t)$                           |$t∈[0,nπ]$             |Fundamental Force|$R*(-2nπ)*\frac{1}{2}=\overline{C}$|
 
+##[几何宇宙论：万物统一的几何本源及其显现](https://github.com/panoramainversion/PRimeCurves/blob/main/GeometriCosmology.md)  
   
 [Parametric Curve Theory: A Mathematical Framework from Geometric Construction to Unification of Fundamental Forces](https://github.com/panoramainversion/PRimeCurves/blob/main/TXcurves_en.md)  
 [参数曲线理论：从几何构造到基本力统一的数学框架](https://github.com/panoramainversion/PRimeCurves/blob/main/TXCurves.md)  
