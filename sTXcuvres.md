@@ -20,7 +20,7 @@
 
 *   强核力（ $R$曲线）： $R(t) = \left( -\frac{t}{n\pi} \sin t, \frac{t}{n\pi} \cos^2 t \right), \ t \in [0, n\pi]$
 
-*   电磁力（ $EM$曲线）： $\textit{EM}(t) = \frac{1}{n}P(t) = \left( \frac{\pi}{t} \sin t, \frac{\pi}{t} \cos^2 t \right), \ t \in \left[ \frac{\pi}{2}, n\pi \right]$
+*   电磁力（ $EM$曲线）： $\textit{EM}(t) = n^{-1}P(t) = \left( \frac{\pi}{t} \sin t, \frac{\pi}{t} \cos^2 t \right), \ t \in \left[ \frac{\pi}{2}, n\pi \right]$
 
 *   引力（ $G$曲线）： $G(t) = nR(t) = \left( -\frac{t}{\pi} \sin t, \frac{t}{\pi} \cos^2 t \right), \ t \in [0, n\pi]$
 
